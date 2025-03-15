@@ -1,8 +1,7 @@
 # VEHICLE SERVICE MANAGEMENT
 
 ---
-## SCREENSHOTS
-### Home Page
+
 
 ---
 ## FUNCTIONS
